@@ -12,7 +12,7 @@ The purpose of the project is to test important user journeys including login, i
 * TypeScript
 * Node.js
 * npm
-* ChatGPT (For documentation)
+* ChatGPT (For documentation,terminal instructions)
 
 ## Website Under Test
 
